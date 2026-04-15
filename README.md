@@ -1,0 +1,2 @@
+# claude-sucks-not
+Sucking in (or straight out refusiong to) processing multiple PDFs forced author to apply what he learnt from exam with cheat sheets: cheating the sheets by putting as many slides in one page as possible. Human's pair of eyes will work a bit harder the smaller a PDF gets, but not Claude. So long as it is above the readable threshold, it does not mind. It is just the number of PDF pages it minds, duh.
